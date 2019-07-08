@@ -1,4 +1,4 @@
-Image Test-Read Me
+Computer Vision-README
 By Evan Tang
 
 This project has two primary purposes:
@@ -11,7 +11,8 @@ command prompt. For a quick demonstration, run main.py (For me thats python
 main.py in terminal).
 
 For further information on the files see below
-  -main.py: executes the actual commands. No functions stored here
+  -main.py: executes the actual commands. No functions stored here although this
+  is where the server interacts with the webpage.
   -detection.py: where the detection function (slope, normal, and circle are
   stored). This is the primary part of the code
   -check_functions.py: executes the functions from detection.py and displays the
